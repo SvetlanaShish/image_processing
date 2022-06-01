@@ -13,4 +13,4 @@ Images processing project
 - util for converting .jpg to .png
 
 to run this step use the next commands:
-- python -m JPGtoPNGconverter.py ./input ./output
+- python JPGtoPNGconverter.py ./input ./output
